@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "description": "build rest api using express.js",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jamalfazlur",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0-alpha.8"
+  }
 }
