@@ -1,0 +1,11 @@
+{
+  "name": "build-rest-api-with-express",
+  "version": "1.0.0",
+  "description": "build rest api using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jamalfazlur",
+  "license": "ISC"
+}
